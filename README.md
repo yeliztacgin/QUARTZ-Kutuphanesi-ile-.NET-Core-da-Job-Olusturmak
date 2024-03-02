@@ -1,0 +1,1 @@
+# QUARTZ-Kutuphanesi-ile-.NET-Core-da-Job-Olusturmak
